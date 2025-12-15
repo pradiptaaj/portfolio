@@ -235,7 +235,7 @@ footer{
       transform: scale3d(1, 1, 1);
     }
   }
-  .text-animate-hover {
+.text-animate-hover {
     display: inline-block;
     min-width: 0; /* IMPORTANT so Nepali letters connect */
     transition: color 0.3s ease;
